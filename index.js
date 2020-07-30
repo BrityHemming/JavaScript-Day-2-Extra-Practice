@@ -54,7 +54,7 @@ TASK 5 🚀
 
 /* 
 TASK 6 🚀
-// write a function that allows a user to pick 3 preferences from the list above and return a list of places to them matching their preferences 
+// write a function that allows a user to sort their vacations by hiking opportunities, beach access or a mix of both and return their options
 */
 
 
