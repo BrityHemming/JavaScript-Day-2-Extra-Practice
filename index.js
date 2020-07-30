@@ -61,6 +61,6 @@ TASK 6 🚀
 
 /* 
 TASK 7 🚀
-// Add up all of the overall ratings and find the average rating 
+// write a function that finds the average of overall ratings in a given array. The function should take an array as its argument and should return the average of the overall ratings in that array 
 hint - use .reduce()
 */
