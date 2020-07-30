@@ -12,6 +12,7 @@ TASK 1 🚀
 TASK 2 🚀
 // write a function that accepts an array and an item and removes that item from the array
 for example you no longer have any onions and need to remove it from the list of toppings
+Use .forEach() - hint - you will need to include the index in the callback
  */
 
 
