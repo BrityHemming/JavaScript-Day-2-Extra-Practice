@@ -64,3 +64,11 @@ TASK 7 🚀
 // write a function that finds the average of overall ratings in a given array. The function should take an array as its argument and should return the average of the overall ratings in that array 
 hint - use .reduce()
 */
+
+
+/*
+TASK 8 🚀
+Find the airport codes for each of the cities in the vacation array and write a function to add them to the objects in the array
+hint - your function should include array, index and code as parameters
+you will need to invoke the function each time you wish to add a new code
+*/
